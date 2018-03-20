@@ -20,7 +20,6 @@ python remove_trailing.py
 ```
 
 # Dictionary encode manually
-# Converts strings used in queries to integers
 
 ```
 python convert.py
