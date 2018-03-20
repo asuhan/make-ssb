@@ -1,0 +1,807 @@
+Parse Time 750
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Compound
+In Compile
+Codegen GPU
+Compilation time 46
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 519
+Execution Time: 566
+Parse Time 53
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Compound
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 7
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 3
+Execution Time: 11
+Parse Time 16
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Compound
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 7
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 3
+Execution Time: 11
+Parse Time 13
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Compound
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 7
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 4
+Execution Time: 11
+Parse Time 13
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Compound
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 7
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 4
+Execution Time: 11
+Parse Time 13
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Compound
+In Compile
+Codegen GPU
+Compilation time 64
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 3
+Execution Time: 68
+Parse Time 12
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Compound
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 7
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 3
+Execution Time: 11
+Parse Time 12
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Compound
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 6
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 3
+Execution Time: 11
+Parse Time 11
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Compound
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 6
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 3
+Execution Time: 11
+Parse Time 11
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Compound
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 7
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 3
+Execution Time: 11
+Parse Time 10
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Compound
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 6
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 3
+Execution Time: 10
+Parse Time 9
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Compound
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 7
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 3
+Execution Time: 10
+Parse Time 9
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Compound
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 7
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 3
+Execution Time: 10
+Parse Time 10
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Compound
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 6
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 3
+Execution Time: 10
+Parse Time 9
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Compound
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 6
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 3
+Execution Time: 10
+Parse Time 124
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Compilation time 98
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 1333
+Execution Time: 1433
+Parse Time 18
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 9
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 1011
+Execution Time: 1023
+Parse Time 13
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 8
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 1031
+Execution Time: 1042
+Parse Time 15
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 23
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 1015
+Execution Time: 1041
+Parse Time 13
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 8
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 1022
+Execution Time: 1033
+Parse Time 16
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Compilation time 73
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 598
+Execution Time: 672
+Parse Time 11
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 8
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 608
+Execution Time: 618
+Parse Time 11
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 20
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 607
+Execution Time: 629
+Parse Time 12
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 8
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 603
+Execution Time: 613
+Parse Time 13
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 8
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 603
+Execution Time: 613
+Parse Time 10
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Compilation time 78
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 171
+Execution Time: 253
+Parse Time 13
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 8
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 172
+Execution Time: 183
+Parse Time 10
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 8
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 171
+Execution Time: 181
+Parse Time 9
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 8
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 172
+Execution Time: 182
+Parse Time 9
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 8
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 172
+Execution Time: 182
+Parse Time 39
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Compilation time 89
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 1644
+Execution Time: 1734
+Parse Time 11
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 15
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 1548
+Execution Time: 1565
+Parse Time 11
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 17
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 1538
+Execution Time: 1557
+Parse Time 11
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 9
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 1545
+Execution Time: 1556
+Parse Time 10
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 8
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 1549
+Execution Time: 1559
+Parse Time 17
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Compilation time 77
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 660
+Execution Time: 745
+Parse Time 9
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 8
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 661
+Execution Time: 678
+Parse Time 9
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 8
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 655
+Execution Time: 672
+Parse Time 9
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 9
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 663
+Execution Time: 681
+Parse Time 9
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 9
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 662
+Execution Time: 679
+Parse Time 9
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Compilation time 77
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 112
+Execution Time: 196
+Parse Time 11
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 9
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 111
+Execution Time: 128
+Parse Time 10
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 8
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 112
+Execution Time: 127
+Parse Time 17
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 8
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 111
+Execution Time: 127
+Parse Time 10
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 8
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 111
+Execution Time: 127
+Parse Time 20
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Compilation time 75
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 74
+Execution Time: 157
+Parse Time 9
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 8
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 74
+Execution Time: 90
+Parse Time 13
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 8
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 74
+Execution Time: 92
+Parse Time 8
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 8
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 75
+Execution Time: 92
+Parse Time 7
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 8
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 74
+Execution Time: 90
+Parse Time 10
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Compilation time 77
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 1446
+Execution Time: 1524
+Parse Time 11
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 9
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 1337
+Execution Time: 1347
+Parse Time 8
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 10
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 1337
+Execution Time: 1349
+Parse Time 8
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 9
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 1337
+Execution Time: 1348
+Parse Time 8
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 9
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 1338
+Execution Time: 1349
+Parse Time 9
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Compilation time 78
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 1177
+Execution Time: 1257
+Parse Time 9
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 9
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 1178
+Execution Time: 1189
+Parse Time 8
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 9
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 1181
+Execution Time: 1192
+Parse Time 8
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 9
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 1178
+Execution Time: 1190
+Parse Time 10
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 9
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 1177
+Execution Time: 1188
+Parse Time 8
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+In Compile
+Codegen GPU
+Compilation time 70
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 120
+In Compile
+Codegen GPU
+Compilation time 75
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 98
+Execution Time: 368
+Parse Time 8
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 8
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 120
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 8
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 97
+Execution Time: 240
+Parse Time 7
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 8
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 119
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 8
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 97
+Execution Time: 239
+Parse Time 8
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 8
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 120
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 8
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 97
+Execution Time: 240
+Parse Time 8
+Num Subqueries 0
+Number of steps in Seq: 1
+Step Sort
+In Compile
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 10
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 119
+In Compile
+Codegen GPU
+Found code in cache
+Compilation time 8
+Executing Fragments
+In part 1; num fragments: 1
+DispatchFragments execution time 97
+Execution Time: 241
