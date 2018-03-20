@@ -34,3 +34,6 @@ python convert.py
 
 # Run
 
+```
+./run_queries.sh
+```
