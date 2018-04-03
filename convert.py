@@ -34,7 +34,7 @@ MIDDLE EAST
 """
 regions = regions.split('\n')
 
-source_dir = '../data-raw20/'
+source_dir = '../data-raw20-m/'
 dest_dir = source_dir
  
 print "process suppliers"
